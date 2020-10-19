@@ -20,6 +20,8 @@ def show_me():
 
 # import pic
 
+#hello from amit
+
 
 if __name__ == '__main__':
     my_im = imread('papilio_caterpillars.jpg')
